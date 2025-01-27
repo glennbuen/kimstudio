@@ -26,7 +26,7 @@ body {
     padding: 10px 0;
     font-size: 14px;
     font-weight: bold;
-    color: #A7C19A;
+    color: skyblue;
    
         font-family: "Inter", serif;
         font-optical-sizing: auto;
@@ -39,7 +39,7 @@ body {
     display: flex; /* Enable Flexbox */
     
     height: 281px; /* Set a fixed height for the container */
-    background: #DDEDD5; /* Background color */
+    background: skyblue; /* Background color */
     border: 1px solid #ccc; /* Optional: Add a border */
     box-sizing: border-box; /* Include padding in width/height calculations */
   }
@@ -113,11 +113,11 @@ body {
     padding: 10px;
     text-align: center;
     background-color: #ffffff;
-    color: #28a745;
+    color: nav;
     text-decoration: none;
     border-radius: 5px;
     box-sizing: border-box;
-    outline: 2px solid #28a745;
+    outline: 2px solid navy;
 }
 
 
@@ -180,7 +180,7 @@ body {
   /* Bottom Section Styles */
   .bottom-section {
     padding: 15px;
-    background-color: #A7C19A;
+    background-color: skyblue;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
