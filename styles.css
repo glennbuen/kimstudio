@@ -18,6 +18,7 @@ body {
     margin: 0 auto;
     background-color: #ffffff;
     
+    
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .header {
@@ -27,6 +28,7 @@ body {
     font-size: 14px;
     font-weight: bold;
     color: skyblue;
+    
    
         font-family: "Inter", serif;
         font-optical-sizing: auto;
@@ -39,7 +41,7 @@ body {
     display: flex; /* Enable Flexbox */
     
     height: 281px; /* Set a fixed height for the container */
-    background: skyblue; /* Background color */
+    background: linear-gradient(to right, #d8b5ff, #1eae98);
     border: 1px solid #ccc; /* Optional: Add a border */
     box-sizing: border-box; /* Include padding in width/height calculations */
   }
@@ -180,7 +182,7 @@ body {
   /* Bottom Section Styles */
   .bottom-section {
     padding: 15px;
-    background-color: skyblue;
+    background: linear-gradient(to right, #d8b5ff, #1eae98);
     display: flex;
     align-items: center;
     justify-content: space-evenly;
